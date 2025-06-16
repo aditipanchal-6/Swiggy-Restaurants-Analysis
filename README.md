@@ -8,31 +8,21 @@ Source: cleaned_swiggy.csv (locally stored)
 Dataset: https://drive.google.com/file/d/1sBWlBMrYTNRIVC9mJZ_I_sGKjZZV8PUj/view?usp=sharing
 
 Imported Into: PostgreSQL using the COPY command
-
 Table Name: swiggy_data
-
 Key Fields:
 id, name, city, rating, rating_count, cost, cuisine, lic_no, link, address, menu
 
-Note: Due to GitHub file size restrictions, the dataset is hosted externally.
-Download Dataset (Google Drive)
 
 Business Questions Answered
 Which cities have the highest and lowest-rated restaurants?
-
 What are the most popular cuisines across India?
-
 Do customers pay more for higher-rated restaurants?
-
 Which cities or cuisines offer the best value for money?
-
 Which restaurants consistently receive poor ratings?
-
 Are there underrated restaurants with high ratings but low visibility?
-
 How many restaurants are FSSAI licensed?
-
 Which cities show potential for business expansion?
+
 
 Key Insights and Observations
 Top-rated restaurants aren’t limited to Tier-1 cities. Localities like Mylapore (Chennai) and Frazer Town (Bangalore) consistently score high, making them strong candidates for hyperlocal promotions and curated premium services.
